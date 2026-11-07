@@ -1,0 +1,18 @@
+# Дані Online Retail II та результати роботи Spark (великі файли, не зберігаються в репозиторії)
+data/
+*.csv
+*.xlsx
+*.parquet
+retail-results/
+lakehouse/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Службові файли
+.idea/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
